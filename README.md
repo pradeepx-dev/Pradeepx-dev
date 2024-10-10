@@ -4,7 +4,7 @@
 <img align="right" alt="" width="400" src=”https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1”>
 
 <h1><b>💫 About Me:</b></h1>
-🔭 I’m currently working on Myself 😉<br>🌱 I’m currently learning C++<br>👯 I’m looking to collaborate on React Web App - projects<br>🤔 I’m looking for help with Node.js<br>💬 Ask me about literally anything<br>📫 How to reach me: <a href = "https://www.linkedin.com/in/pradeepx">Click the Magic Button ✨</a><br>⚡ Fun fact: You can find me on Google 😲
+🔭 I’m currently working on Myself 😉<br>🌱 I’m currently learning DSA<br>👯 I’m looking to collaborate on React Web App - projects<br>🤔 I’m looking for help with Node.js<br>💬 Ask me about literally anything<br>📫 How to reach me: <a href = "https://www.linkedin.com/in/pradeepx">Click the Magic Button ✨</a><br>⚡ Fun fact: You can find me on Google 😲
 
 
 ## 🌐 Socials:
