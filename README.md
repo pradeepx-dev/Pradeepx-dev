@@ -1,11 +1,30 @@
 ![MasterHead](https://github.com/Pradeepx-dev/Pradeepx-dev/blob/main/github_banner.jpeg)
 <h1 align="center">Hi 👋, I'm Pradeep Kumar Maurya</h1>
-<h3 align="center">A passionate learner in the field of Web Development</h3>
 <img align="right" alt="" width="400" src=”https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1”>
 
 <h1><b>💫 About Me:</b></h1>
-🔭 I’m currently working on Myself 😉<br>🌱 I’m currently learning DSA<br>👯 I’m looking to collaborate on Innovative full stack Projects<br>💬 Ask me about literally anything<br>📫 How to reach me: Click the Magic Button ✨
+Hello there! 👋 I'm Pradeep Kumar Maurya, a Full Stack Developer experienced in the MERN stack. Currently, I'm pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. 💻 In addition, I'm expanding my skills in responsive web design 🌐 and exploring innovative technologies like AI/ML 🤖. I also enjoy Competitive Programming (CP) to improve my problem-solving skills. 🧠
 
+
+### 💻Connect with me on:
+
+<a href="https://codeforces.com/profile/pradeepx" target="_blank">
+  <img src="https://sta.codeforces.com/s/42168/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="150" style="margin-right:10px;" />
+</a>
+
+<a href="https://www.codechef.com/users/pradeepx" target="_blank">
+  <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="150" style="margin-right:10px;" />
+</a>
+
+<a href="https://leetcode.com/u/pradeepx_/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="70" style="margin-right:10px;" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/visionum55/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="70" />
+</a>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pradeepx_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeepx135@gmail.com) 
