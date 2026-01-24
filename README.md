@@ -16,7 +16,7 @@ Hello there! 👋 I'm Pradeep Kumar Maurya, a Full Stack Developer experienced i
   <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="150" style="margin-right:10px;" />
 </a>
 
-<a href="https://leetcode.com/u/pradeepx_/" target="_blank">
+<a href="https://leetcode.com/u/pradeepx1/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="70" style="margin-right:10px;" />
 </a>
 
