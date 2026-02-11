@@ -8,9 +8,9 @@ Hello there! 👋 I'm Pradeep Kumar Maurya, a Full Stack Developer experienced i
 
 ### 💻Connect with me on:
 
-<a href="https://codeforces.com/profile/pradeepx" target="_blank">
+<!-- <a href="https://codeforces.com/profile/pradeepx" target="_blank">
   <img src="https://sta.codeforces.com/s/42168/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="150" style="margin-right:10px;" />
-</a>
+</a> -->
 
 <a href="https://www.codechef.com/users/pradeepx" target="_blank">
   <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="150" style="margin-right:10px;" />
