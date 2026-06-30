@@ -3,8 +3,7 @@
 <img align="right" alt="" width="400" src=”https://i0.wp.com/bitcoinke.io/wp-content/uploads/2022/01/Web-3.0-GIF-2.gif?resize=640%2C360&ssl=1”>
 
 <h1><b>💫 About Me:</b></h1>
-Hello there! 👋 I'm Pradeep Kumar Maurya, a Full Stack Developer experienced in the MERN stack. Currently, I'm pursuing my bachelor's degree in Computer Science and Engineering. I'm passionate about building real-world, open-source projects that provide value. 💻 In addition, I'm expanding my skills in responsive web design 🌐 and exploring innovative technologies like AI/ML 🤖. I also enjoy Competitive Programming (CP) to improve my problem-solving skills. 🧠
-
+Hello there! 👋 I'm **Pradeep Kumar Maurya**, a **recent Computer Science graduate** and **Full Stack Developer** specializing in the **MERN stack**. I'm passionate about building real-world applications, exploring emerging technologies like **AI/ML**, and strengthening my problem-solving skills through **Data Structures & Algorithms** and **Competitive Programming**. 🚀💻🧠
 
 ### 💻Connect with me on:
 
